@@ -33,7 +33,7 @@
 
 #### Services 
 
-![Services](https://skillicons.dev/icons?i=firebase,supabase,planetscale,cloudflare,vercel,netlify)
+![Services](https://skillicons.dev/icons?i=firebase,supabase,cloudflare,vercel,netlify)
 
 
 #### Database
